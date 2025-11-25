@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|c:\\users\\sindauto\\desktop\\calculadort\u00E9cnico\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|c:\\users\\sindauto\\desktop\\calculadort\u00E9cnico\\consoleapp1\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|solutionrelative:services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|c:\\users\\sindauto\\desktop\\calculadort\u00E9cnico\\consoleapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|c:\\users\\sindauto\\desktop\\calculadort\u00E9cnico\\consoleapp1\\models\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|solutionrelative:models\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|c:\\users\\sindauto\\desktop\\calculadort\u00E9cnico\\consoleapp1\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|c:\\users\\sindauto\\desktop\\calculadort\u00E9cnico\\consoleapp1\\models\\interestrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|solutionrelative:models\\interestrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|c:\\users\\sindauto\\desktop\\calculadort\u00E9cnico\\consoleapp1\\data\\jsonsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|solutionrelative:data\\jsonsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|c:\\users\\sindauto\\desktop\\calculadort\u00E9cnico\\consoleapp1\\services\\financialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|solutionrelative:services\\financialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|c:\\users\\sindauto\\desktop\\calculadort\u00E9cnico\\consoleapp1\\services\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191314EE-EF2A-4579-AF51-CA9CDF508175}|ConsoleApp1.csproj|solutionrelative:services\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1109096346:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1109055098:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAG4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:39:04.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinancialService.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Services\\FinancialService.cs",
+              "RelativeDocumentMoniker": "Services\\FinancialService.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Services\\FinancialService.cs",
+              "RelativeToolTip": "Services\\FinancialService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:05:20.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\Sale.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:48:59.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Services\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Services\\InventoryService.cs",
+              "RelativeToolTip": "Services\\InventoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:03:39.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterestRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Models\\InterestRecord.cs",
+              "RelativeDocumentMoniker": "Models\\InterestRecord.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Models\\InterestRecord.cs",
+              "RelativeToolTip": "Models\\InterestRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:54:10.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:50:22.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Models\\StockMovement.cs",
+              "RelativeDocumentMoniker": "Models\\StockMovement.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Models\\StockMovement.cs",
+              "RelativeToolTip": "Models\\StockMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:52:29.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonSource.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Data\\JsonSource.cs",
+              "RelativeDocumentMoniker": "Data\\JsonSource.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Data\\JsonSource.cs",
+              "RelativeToolTip": "Data\\JsonSource.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:08:13.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesService.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Services\\SalesService.cs",
+              "RelativeDocumentMoniker": "Services\\SalesService.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\CalculadorT\u00E9cnico\\ConsoleApp1\\Services\\SalesService.cs",
+              "RelativeToolTip": "Services\\SalesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:56:24.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
